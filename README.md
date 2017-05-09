@@ -2,7 +2,7 @@
 Circle detection by arc-support line segments
 
 *code folder:
-Code for circle detetion by arc-support line segments.(It only support 64-bit Windows operating system)
+Code for circle detetion by arc-support line segments.(It only supports 64-bit Windows operating system)
 
 *two datasets: 
 1、the industrial PCB image dataset
