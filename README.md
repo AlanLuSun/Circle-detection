@@ -13,7 +13,7 @@ You can contact me by email (ChangshengLuu@gmail.com, or xia081@gmail.com) if yo
 
 Citation
 ==
-"""
+'''
 @inproceedings{lu2017circle,
   title={Circle detection by arc-support line segments},
   author={Lu, Changsheng and Xia, Siyu and Huang, Wanming and Shao, Ming and Fu, Yun},
@@ -22,4 +22,4 @@ Citation
   year={2017},
   organization={IEEE}
 }
-"""
+'''
