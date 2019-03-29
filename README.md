@@ -1,6 +1,6 @@
 # Circle-detection
 Code for the paper:
-Changsheng Lu, Siyu Xia, Wanming Huang, Ming Shao, Yun Fu. Circle Detection by Arc-support Line Segments. In: The 24rd IEEE International Conference on Image Processing (ICIP), 2017 (Oral Presentation)
+Changsheng Lu, Siyu Xia, Wanming Huang, Ming Shao, Yun Fu. [Circle Detection by Arc-support Line Segments](https://alanlusun.github.io/publication/2017-09-20-Circle-Detection/). In: The 24rd IEEE International Conference on Image Processing (ICIP), 2017 (Oral Presentation)
 
 *Code folder:
 Code for circle detetion by arc-support line segments.(It only supports 64-bit Windows operating system)
