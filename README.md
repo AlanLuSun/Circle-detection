@@ -11,8 +11,7 @@ Code for circle detetion by arc-support line segments.(It only supports 64-bit W
 
 You can contact me by email (ChangshengLuu@gmail.com, or xia081@gmail.com) if you have any question. Please cite our paper(ICIP 2017), thanks.
 
-Citation
-==
+# Citation
 ```
 @inproceedings{lu2017circle,
   title={Circle detection by arc-support line segments},
