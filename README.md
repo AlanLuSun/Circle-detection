@@ -21,4 +21,7 @@ You can contact me by email (ChangshengLuu@gmail.com, or xia081@gmail.com) if yo
   year={2017},
   organization={IEEE}
 }
-```
+```  
+
+# Our extended work  
+[High-quality ellipse detection](https://github.com/AlanLuSun/High-quality-ellipse-detection) which can detect not only circles but also ellipses from images.  
